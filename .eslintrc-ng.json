@@ -1,5 +1,4 @@
 {
-    "ng": 1,
     "parserOptions": {
         "ecmaVersion": 2017,
         "sourceType": "module",
